@@ -1,4 +1,4 @@
-package com.amul.dummy;
+package com.amul.arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;
